@@ -1,4 +1,4 @@
-h3>Hi there ✨ <img src="https://gpvc.arturio.dev/crinny" align="center" /></h3>
+<h3>Hi there ✨ <img src="https://gpvc.arturio.dev/fl33n" align="center" /></h3>
 
 ### My stack 👨‍💻	
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Contact with me💭:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/fl33n)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/fl33n)
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=fl33n&show_icons=true&count_private=true">
