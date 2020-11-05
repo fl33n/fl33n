@@ -1,5 +1,8 @@
-### Привет 👋
+h3>Hi there ✨ <img src="https://gpvc.arturio.dev/crinny" align="center" /></h3>
 
+### My stack 👨‍💻	
+
+![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square)
 <!--
 **fl33n/fl33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Follow Me:
+### Contact with me💭:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/fl33n)
-[![Spotify](https://img.shields.io/badge/-Spotify-090909?style=for-the-badge&logo=spotify&logoColor=00FF00)](https://open.spotify.com/user/06c5n7peb0mjyyymh13nr3fgb)
+
+## Stats 📊
+<img src="https://github-readme-stats.vercel.app/api?username=fl33n&show_icons=true&count_private=true">
