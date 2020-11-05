@@ -2,7 +2,7 @@
 
 ### My stack 👨‍💻	
 
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat)
 <!--
 **fl33n/fl33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
